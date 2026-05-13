@@ -22,7 +22,7 @@ const Technicaltraining = () => {
   <div className="max-w-7xl mx-auto px-4">
 
 
-    <div className="text-center mb-14">
+    <div className="text-center mb-10">
        <h2 className="text-4xl font-semibold text-green-800">
         <span className="text-black">Training </span> 
        Domains
