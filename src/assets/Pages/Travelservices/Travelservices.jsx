@@ -2,6 +2,7 @@ import React from 'react'
 
 const Travelservices = () => {
   return (
+    <>
    <section className='w-full bg-green-100 py-25'>
     <div className='max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between'>
       <div className='md:w-1/2 space-y-6'>
@@ -17,6 +18,243 @@ const Travelservices = () => {
       </div>
     </div>
    </section>
+   <section class="py-16 bg-gray-100">
+  <div class="max-w-7xl mx-auto px-4">
+
+
+    <div class="text-center mb-12">
+       <h2 className="text-4xl font-semibold text-green-800 text-center">
+        <span className="text-black">Our Travel </span> Services
+      </h2>
+
+      <p class="text-gray-600">
+        Comprehensive travel solutions tailored to your organizational needs.
+      </p>
+    </div>
+
+  
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+
+     
+      <div class="bg-white p-6 rounded-xl shadow">
+        <h3 class="text-xl font-semibold mb-4">
+          Corporate Travel Solutions
+        </h3>
+
+        <p class="text-gray-600 mb-4">
+          Comprehensive travel management for business trips, conferences, and corporate events.
+        </p>
+
+        <ul class="space-y-2 text-sm text-gray-700">
+          <li>• Flight & Hotel Booking</li>
+          <li>• Expense Management</li>
+          <li>• Travel Policy Compliance</li>
+          <li>• Real-time Support</li>
+        </ul>
+      </div>
+
+     
+      <div class="bg-white p-6 rounded-xl shadow">
+        <h3 class="text-xl font-semibold mb-4">
+          Group & Bulk Travel
+        </h3>
+
+        <p class="text-gray-600 mb-4">
+          Coordinated travel arrangements for large groups with seamless logistics management.
+        </p>
+
+        <ul class="space-y-2 text-sm text-gray-700">
+          <li>• Group Discounts</li>
+          <li>• Charter Services</li>
+          <li>• Coordinated Itineraries</li>
+          <li>• On-ground Support</li>
+        </ul>
+      </div>
+
+   
+      <div class="bg-white p-6 rounded-xl shadow">
+        <h3 class="text-xl font-semibold mb-4">
+          Institutional Tours
+        </h3>
+
+        <p class="text-gray-600 mb-4">
+          Educational and institutional tour planning with safety and educational value in mind.
+        </p>
+
+        <ul class="space-y-2 text-sm text-gray-700">
+          <li>• Educational Tours</li>
+          <li>• Safety Protocols</li>
+          <li>• Structured Planning</li>
+          <li>• Expert Guides</li>
+        </ul>
+      </div>
+
+      
+      <div class="bg-white p-6 rounded-xl shadow">
+        <h3 class="text-xl font-semibold mb-4">
+          Event Travel Coordination
+        </h3>
+
+        <p class="text-gray-600 mb-4">
+          End-to-end travel management for conferences, seminars, and corporate gatherings.
+        </p>
+
+        <ul class="space-y-2 text-sm text-gray-700">
+          <li>• Delegate Management</li>
+          <li>• Venue Coordination</li>
+          <li>• Transport Logistics</li>
+          <li>• Accommodation</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="py-16 bg-white">
+  <div class="max-w-7xl mx-auto px-4">
+
+
+    <div class="text-center mb-12">
+    <h2 className="text-4xl font-semibold text-green-800 text-center">
+        <span className="text-black">Why Choose  </span>Our Services
+      </h2>
+    </div>
+
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+
+  
+      <div class="bg-gray-100 p-6 rounded-xl shadow-sm">
+    
+        <h3 class="text-xl font-semibold mb-3">
+          24/7 Travel Support
+        </h3>
+
+        <p class="text-gray-600">
+          Round-the-clock assistance for any travel-related queries or emergencies.
+        </p>
+      </div>
+
+
+      <div class="bg-gray-100 p-6 rounded-xl shadow-sm">
+
+
+        <h3 class="text-xl font-semibold mb-3">
+          Global Network
+        </h3>
+
+        <p class="text-gray-600">
+          Extensive network of partners worldwide for seamless travel experiences.
+        </p>
+      </div>
+
+
+      <div class="bg-gray-100 p-6 rounded-xl shadow-sm">
+  
+
+        <h3 class="text-xl font-semibold mb-3">
+          Time Efficiency
+        </h3>
+
+        <p class="text-gray-600">
+          Streamlined booking processes saving valuable time for your organization.
+        </p>
+      </div>
+
+      
+      <div class="bg-gray-100 p-6 rounded-xl shadow-sm">
+     
+
+        <h3 class="text-xl font-semibold mb-3">
+          Budget Optimization
+        </h3>
+
+        <p class="text-gray-600">
+          Cost-effective solutions without compromising comfort and quality.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+<section class="py-16 bg-gray-100">
+  <div class="max-w-7xl mx-auto px-4">
+
+    
+    <div class="text-center mb-12">
+      <h2 class="text-4xl font-bold text-green-700 mb-4">
+        Our Process
+      </h2>
+
+      <p class="text-gray-600">
+        Simple, efficient, and transparent travel planning process.
+      </p>
+    </div>
+
+    
+    <div class="grid md:grid-cols-4 gap-6">
+
+      
+      <div class="bg-white p-6 rounded-xl shadow text-center">
+        <div class="text-5xl font-bold text-green-700 mb-4">01</div>
+
+        <h3 class="text-xl font-semibold mb-3">
+          Consultation
+        </h3>
+
+        <p class="text-gray-600">
+          Understand your travel requirements and preferences
+        </p>
+      </div>
+
+    
+      <div class="bg-white p-6 rounded-xl shadow text-center">
+        <div class="text-5xl font-bold text-green-700 mb-4">02</div>
+
+        <h3 class="text-xl font-semibold mb-3">
+          Planning
+        </h3>
+
+        <p class="text-gray-600">
+          Design customized itinerary and booking strategy
+        </p>
+      </div>
+
+    
+      <div class="bg-white p-6 rounded-xl shadow text-center">
+        <div class="text-5xl font-bold text-green-700 mb-4">03</div>
+
+        <h3 class="text-xl font-semibold mb-3">
+          Execution
+        </h3>
+
+        <p class="text-gray-600">
+          Handle all bookings, logistics, and coordination
+        </p>
+      </div>
+
+
+      <div class="bg-white p-6 rounded-xl shadow text-center">
+        <div class="text-5xl font-bold text-green-700 mb-4">04</div>
+
+        <h3 class="text-xl font-semibold mb-3">
+          Support
+        </h3>
+
+        <p class="text-gray-600">
+          Provide ongoing assistance throughout your journey
+        </p>
+      </div>
+
+    </div>
+
+
+   
+
+  </div>
+</section>
+</>
   )
 }
 
