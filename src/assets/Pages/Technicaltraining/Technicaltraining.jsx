@@ -49,7 +49,7 @@ const Technicaltraining = () => {
       </div>
 
 
-      <div className="bg-green-50 p-6 rounded-2xl shadow hover:shadow-xl transition">
+      <div className="bg-green-50 p-6 rounded-2xl shadow hover:shadow-xl ">
         <h3 className="text-xl font-semibold mb-3">Electrical Engineering</h3>
         <p className="text-gray-600 mb-3">
           Learn power systems, control systems, electronics, and electrical design fundamentals.
@@ -62,7 +62,7 @@ const Technicaltraining = () => {
         </ul>
       </div>
 
-      <div className="bg-green-50 p-6 rounded-2xl shadow hover:shadow-xl transition">
+      <div className="bg-green-50 p-6 rounded-2xl shadow hover:shadow-xl ">
         <h3 className="text-xl font-semibold mb-3">Mechanical Engineering</h3>
         <p className="text-gray-600 mb-3">
           Develop expertise in design, manufacturing, thermodynamics, and mechanical systems.
@@ -76,7 +76,7 @@ const Technicaltraining = () => {
       </div>
 
    
-      <div className="bg-green-50 p-6 rounded-2xl shadow hover:shadow-xl transition">
+      <div className="bg-green-50 p-6 rounded-2xl shadow hover:shadow-xl ">
         <h3 className="text-xl font-semibold mb-3">Software & IT</h3>
         <p className="text-gray-600 mb-3">
           Build modern software development skills, programming, databases, and cloud technologies.
@@ -92,6 +92,7 @@ const Technicaltraining = () => {
 
   </div>
 </section>
+
 <section class="py-12 bg-gray-100">
   <div class="max-w-6xl mx-auto px-4">
 
@@ -140,6 +141,31 @@ const Technicaltraining = () => {
   </div>
 
 </section>
+<div className="py-16 px-6">
+  <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+
+    <div className=" rounded-2xl p-8 text-center shadow-lg  ">
+      <h2 className="text-4xl font-bold mb-2 text-green-800">8K+</h2>
+      <p className="text-gray-600 text-lg">Students Trained</p>
+    </div>
+
+    <div className="rounded-2xl p-8 text-center shadow-lg ">
+      <h2 className="text-4xl font-bold mb-2  text-green-800">40+</h2>
+      <p className="text-gray-600 text-lg">Technical Courses</p>
+    </div>
+
+    <div className=" rounded-2xl p-8 text-center shadow-lg ">
+      <h2 className="text-4xl font-bold mb-2  text-green-800">92%</h2>
+      <p className="text-gray-600">Placement Rate</p>
+    </div>
+
+    <div className=" rounded-2xl p-8 text-center shadow-lg ">
+      <h2 className="text-4xl font-bold text-green-800 ">150+</h2>
+      <p className="text-gray-600 text-lg">Industry Partners</p>
+    </div>
+
+  </div>
+</div>
 <footer className="mt-10">
 
 

@@ -25,6 +25,122 @@ const About = () => {
 
         </div>
       </section>
+      <div className=" py-20 px-6">
+  <div className="max-w-7xl mx-auto">
+
+    <div className="text-center mb-14">
+        <h2 className="text-4xl md:text-3xl font-bold ">
+ Trusted by <span className="text-green-800">Organizations & Professionals</span>
+      </h2>
+
+      <p className="text-gray-600 max-w-3xl mt-2 mx-auto text-lg leading-relaxed">
+        Our training programs and professional services are trusted by
+        corporate teams, institutions, and industry professionals across India.
+      </p>
+    </div>
+
+   
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+
+      <div className=" rounded-2xl p-8 text-center shadow-lg">
+        <h3 className="text-5xl font-bold mb-3">
+          10,000+
+        </h3>
+        <p className="text-gray-600 text-lg">
+          Professionals Trained
+        </p>
+      </div>
+
+      <div className="rounded-2xl p-8 text-center shadow-lg">
+        <h3 className="text-5xl font-bold mb-3">
+          250+
+        </h3>
+        <p className="text-gray-600 text-lg">
+          Corporate Programs Delivered
+        </p>
+      </div>
+
+      <div className="rounded-2xl p-8 text-center shadow-lg">
+        <h3 className="text-5xl font-bold">
+          20+
+        </h3>
+        <p className="text-gray-600 text-lg">
+          Years of Industry Experience
+        </p>
+      </div>
+
+      <div className=" rounded-2xl p-8 text-center shadow-lg">
+        <h3 className="text-5xl font-bold mb-3">
+          100%
+        </h3>
+        <p className="text-gray-600text-lg">
+          Client Satisfaction Focus
+        </p>
+      </div>
+
+    </div>
+  </div>
+</div>
+      <div className="bg-white py-16 px-6">
+  <div className="max-w-7xl mx-auto">
+
+ 
+    <div className="text-center mb-12">
+       <h2 className="text-4xl md:text-5xl font-bold text-gray-900">
+      Our <span className="text-green-800">Values</span>
+      </h2>
+
+      <p className="text-slate-600 mt-3">
+        The principles that guide our mission and growth.
+      </p>
+    </div>
+
+    
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+
+      <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 hover:shadow-xl transition duration-300">
+        
+        <h3 className="text-2xl font-semibold text-slate-900 mb-3">
+          Integrity
+        </h3>
+        <p className="text-slate-600 leading-relaxed">
+          Upholding honesty and ethical standards in all engagements.
+        </p>
+      </div>
+
+      <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 hover:shadow-xl transition duration-300">
+      
+        <h3 className="text-2xl font-semibold text-slate-900 mb-3">
+          Excellence
+        </h3>
+        <p className="text-slate-600 leading-relaxed">
+          Delivering the highest quality in training and services.
+        </p>
+      </div>
+
+      <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 hover:shadow-xl transition duration-300">
+       
+        <h3 className="text-2xl font-semibold text-slate-900 mb-3">
+          Commitment
+        </h3>
+        <p className="text-slate-600 leading-relaxed">
+          Dedicated to the growth and success of our clients.
+        </p>
+      </div>
+
+      <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 hover:shadow-xl transition duration-300">
+      
+        <h3 className="text-2xl font-semibold text-slate-900 mb-3">
+          Partnership
+        </h3>
+        <p className="text-slate-600 leading-relaxed">
+          Building long-term relationships based on trust.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</div>
       <section className="bg-white py-20">
   <div className="max-w-7xl mx-auto px-4">
 
